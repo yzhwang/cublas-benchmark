@@ -1,0 +1,3 @@
+[submodule "openai-gemm"]
+	path = openai-gemm
+	url = https://github.com/yzhwang/openai-gemm.git
